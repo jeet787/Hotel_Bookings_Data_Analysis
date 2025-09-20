@@ -1,5 +1,11 @@
 # Hotel Booking Analysis - Power BI Project
 
+**By: Satyajeet Katkar**
+
+![Background Image](https://github.com/jeet787/Hotel_Bookings_Data_Analysis/blob/main/Background%20Image.png)
+
+
+
 This repository contains an interactive **Power BI dashboard** that analyzes hotel booking data to uncover trends, patterns, and key insights related to customer behavior, cancellations, revenue, and distribution channels. The goal of this project is to help hotel management optimize operations, reduce cancellations, and improve guest satisfaction.
 
 ---
@@ -32,6 +38,14 @@ The dataset contains detailed information about hotel bookings, including:
 ---
 
 ## 🛠 Data Cleaning & Transformation
+
+Performed in **Python**
+- Handling Missing Values
+- Filling Missing Values
+- Changing Datatypes
+- Handling Outliers
+
+  
 Performed in **Power Query**:
 - Removed duplicates and null values.  
 - Standardized column names.  
@@ -39,6 +53,7 @@ Performed in **Power Query**:
   - Revenue per booking
   - Average daily rate (ADR)
   - Cancellation percentage
+
 
 ---
 
