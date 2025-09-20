@@ -15,6 +15,10 @@ The project focuses on:
 ---
 
 ## 📂 Dataset
+
+[Dataset Used ](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
+
+
 The dataset contains detailed information about hotel bookings, including:
 - **Hotel type** (Resort Hotel / City Hotel)  
 - **Booking status** (Confirmed, Cancelled, No-Show)  
@@ -50,12 +54,19 @@ Performed in **Power Query**:
 
 ## 📈 Dashboards
 
+### Hotel Revenue and Booking Trend 
+![Dashboard](https://github.com/jeet787/Hotel_Bookings_Data_Analysis/blob/main/Dashboards/Hotel%20Revenue%20and%20Booking%20Trend.png)
+
+
+### Market Segment and Guest Demographics 
+![Dashboard](https://github.com/jeet787/Hotel_Bookings_Data_Analysis/blob/main/Dashboards/Market%20Segment%20and%20Guest%20Demographics.png)
+
 
 ---
 
 ## 🧰 Tools Used
 - **Power BI Desktop** – Data modeling & dashboard building  
-- **Power Query and Python ** – Data cleaning & transformations  
+- **Power Query and Python** – Data cleaning & transformations  
 - **DAX** – Calculated measures & KPIs  
 - **Excel / CSV** – Source dataset  
 
